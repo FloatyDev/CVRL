@@ -1,6 +1,17 @@
 # CVRL
 ## Research Papers
 
+### Scene Graph Generation
+1. [Scene Graph Generation: A Comprehensive Survey](https://arxiv.org/pdf/2201.00443.pdf)
+
+#### Medium Resources
+1. [Beginners’ guide to Knowledge Graphs and Scene-Graphs](https://asadrizvi64.medium.com/beginners-guide-to-knowledge-graphs-and-scene-graphs-3decbed9e6a3)
+2. [Scene Graph Generation, Compression, and Classification on Action Genome Dataset] (https://medium.com/stanford-cs224w/scene-graph-generation-compression-and-classification-on-action-genome-dataset-9f692a1d5394)
+
+### Datasets for Scene/Knowledge Graphs
+1. [Visual Genome](https://arxiv.org/pdf/1602.07332.pdf) - [Project Page](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html)
+2. [Action Genome](https://arxiv.org/abs/1912.06992) - [Project Page](https://www.actiongenome.org/)
+
 ### Datasets for fine segmentation of objects in images
 1. [PACO: Parts and Attributes of Common Objects](https://arxiv.org/abs/2301.01795) - [Project Page](https://paco.metademolab.com/)
 #### PACO Ego4D Challenge 
