@@ -22,3 +22,6 @@
   1. [WorkingHands: A Hand-Tool Assembly Dataset for Image Segmentation and Activity Mining](https://www3.cs.stonybrook.edu/~minhhoai/papers/workingHands_BMVC19.pdf) - [Project Page]()
   2. [Egocentric Human-Object Interaction Detection Exploiting Synthetic Data](https://arxiv.org/abs/2204.07061) - [Project Page](https://iplab.dmi.unict.it/egoism-hoi/#dataset)
   3. [ VOST: Video Object Segmentation under Transformations](https://arxiv.org/abs/2212.06200) - [Project Page](https://www.vostdataset.org/)
+### Methodologies
+#### Feature Refinement
+- [Message Passing](https://arxiv.org/pdf/1701.02426.pdf)
